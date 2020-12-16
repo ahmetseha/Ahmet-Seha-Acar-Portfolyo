@@ -8,3 +8,5 @@ Scss kullandım. Çok zevkliymiş.
 Farklı bir tasarım denemeye çalıştım. İçime pek sinmedi ama değiştirmeye üşendim. 
 
 Diğer projelerde görüşürüz!!!
+
+<img src="file:///C:/Users/Ahmet%20Seha%20ACAR/Desktop/Ahmet%20Seha%20Portfolyo.gif"/>
