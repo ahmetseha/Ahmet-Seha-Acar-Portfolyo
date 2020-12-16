@@ -9,4 +9,4 @@ Farklı bir tasarım denemeye çalıştım. İçime pek sinmedi ama değiştirme
 
 Diğer projelerde görüşürüz!!!
 
-<img src="https://media.giphy.com/media/278KQW6kMzO15T0XGr/giphy.gif"/>
+<img src="https://media.giphy.com/media/278KQW6kMzO15T0XGr/giphy.gif" width="100%" />
