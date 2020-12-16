@@ -9,4 +9,4 @@ Farklı bir tasarım denemeye çalıştım. İçime pek sinmedi ama değiştirme
 
 Diğer projelerde görüşürüz!!!
 
-<img src="file:///C:/Users/Ahmet%20Seha%20ACAR/Desktop/Ahmet%20Seha%20Portfolyo.gif"/>
+<img src="https://media.giphy.com/media/278KQW6kMzO15T0XGr/giphy.gif"/>
