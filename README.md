@@ -8,5 +8,3 @@ Scss kullandım. Çok zevkliymiş.
 Farklı bir tasarım denemeye çalıştım. İçime pek sinmedi ama değiştirmeye üşendim. 
 
 Diğer projelerde görüşürüz!!!
-
-<img src="https://media.giphy.com/media/278KQW6kMzO15T0XGr/giphy.gif" width="100%" />
