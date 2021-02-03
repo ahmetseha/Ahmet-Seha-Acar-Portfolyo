@@ -1,3 +1,3 @@
 ## Live Demo
 
-[Siteyi görmek için tıklayın](https://601a9a3623b981f253466da7--elegant-lovelace-afe7d2.netlify.app/)
+[Siteyi görmek için tıklayın](https://601a9a94822d870008b91455--ahmetseha.netlify.app/)
